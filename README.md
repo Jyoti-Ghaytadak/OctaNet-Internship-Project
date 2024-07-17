@@ -1,4 +1,4 @@
-# OctaNet-Internship-Project
+# OctaNet Internship Project
 # ATM Machine Simulation
 
 ## Description
